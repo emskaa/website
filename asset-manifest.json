@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/emskaa/website/static/css/main.40d79de5.css",
-    "main.js": "/emskaa/website/static/js/main.210d6d82.js",
-    "static/js/787.0cd22142.chunk.js": "/emskaa/website/static/js/787.0cd22142.chunk.js",
-    "static/media/sailormoonpfp.png": "/emskaa/website/static/media/sailormoonpfp.55a50037a10294179fbb.png",
-    "index.html": "/emskaa/website/index.html",
-    "main.40d79de5.css.map": "/emskaa/website/static/css/main.40d79de5.css.map",
-    "main.210d6d82.js.map": "/emskaa/website/static/js/main.210d6d82.js.map",
-    "787.0cd22142.chunk.js.map": "/emskaa/website/static/js/787.0cd22142.chunk.js.map"
+    "main.css": "/website/static/css/main.40d79de5.css",
+    "main.js": "/website/static/js/main.d61d28b3.js",
+    "static/js/787.0cd22142.chunk.js": "/website/static/js/787.0cd22142.chunk.js",
+    "static/media/sailormoonpfp.png": "/website/static/media/sailormoonpfp.55a50037a10294179fbb.png",
+    "index.html": "/website/index.html",
+    "main.40d79de5.css.map": "/website/static/css/main.40d79de5.css.map",
+    "main.d61d28b3.js.map": "/website/static/js/main.d61d28b3.js.map",
+    "787.0cd22142.chunk.js.map": "/website/static/js/787.0cd22142.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.40d79de5.css",
-    "static/js/main.210d6d82.js"
+    "static/js/main.d61d28b3.js"
   ]
 }
