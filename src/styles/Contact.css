@@ -1,0 +1,15 @@
+.contact {
+    margin-top: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+
+.contact .socials svg{
+    color: black;
+    margin: 20px;
+    font-size: 70px;
+    cursor: pointer;
+}
